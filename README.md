@@ -233,7 +233,7 @@ formData.append('propertyType', propertyDetails.propertyType);
 ## 🔗 Additional Resources
 
 - [Project Documentation](https://docs.google.com/document/d/1AUCuc2DxWLhj1f5vSLCVVNFqPeGeWuFh/edit?usp=sharing&ouid=103693589633357475993&rtpof=true&sd=true)
-- [Demo Video](https://drive.google.com/file/d/1QioacNtT-l7T0bDTW96vL7Sv6mnhY3J3/view?usp=sharing)
+- [Demo Video](https://drive.google.com/file/d/1w5scwK-wQeaZdOZpX_aJ2DcS9aBA1777/view?usp=drive_link)
 
 ---
 
